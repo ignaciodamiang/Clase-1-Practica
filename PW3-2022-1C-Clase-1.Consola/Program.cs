@@ -20,6 +20,7 @@ namespace PW3_2022_1C_Clase_1.Consola
 
             Console.WriteLine($"{num1} + {num2} = {Calculadora.Sumar(num1, num2)}");
             Console.ReadKey();
+
         }
     }
 }
